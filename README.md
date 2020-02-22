@@ -1,4 +1,4 @@
 # Software Development Project
 
-BMW Configurator desktop app using JavaFXML. Modeling, implementation and documentation included.
+BMW Configurator is a three-layered desktop application using JavaFXML and MVC pattern. Modeling, implementation and documentation included.
 
