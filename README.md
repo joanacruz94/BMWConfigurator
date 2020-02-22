@@ -1,4 +1,4 @@
 # Software Development Project
 
-BMW Configurator app. Modeling, implementation and documentation included.
+BMW Configurator desktop app using JavaFXML. Modeling, implementation and documentation included.
 
